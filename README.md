@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/ahmadkhan5346/ahmadkhan5346/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Sarfraz Khan</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 

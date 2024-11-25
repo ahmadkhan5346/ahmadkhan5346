@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sarfraz Khan</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
+<img align="right" alt="Coding" src="https://github.com/rudrabarad/Gifs">
+
 - 🔭 I’m currently working on **Business Analytics**
 
 - 📫 How to reach me **khansarfraz5346@gmail.com**
